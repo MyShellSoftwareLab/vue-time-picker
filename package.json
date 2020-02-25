@@ -1,0 +1,23 @@
+{
+  "name": "@myshell/vue-time-picker",
+  "version": "0.0.2",
+  "main": "src/TimePicker.js",
+  "browser": {
+    "./src": "src/TimePicker.vue"
+  },
+  "description": "Vue Time Picker",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyShellSoftwareLab/vue-time-picker.git"
+  },
+  "author": "GussRw",
+  "contributors": ["GussRw", "JorgeSolisC"],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyShellSoftwareLab/vue-time-picker/issues"
+  },
+  "homepage": "https://github.com/MyShellSoftwareLab/vue-time-picker#readme"
+}
